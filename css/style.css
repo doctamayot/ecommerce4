@@ -1,0 +1,35 @@
+.canasta{
+    width: 20px;
+    height: 20px;
+    
+}
+
+.sear{
+    width:15px;
+    height:15px;
+}
+
+.badges{
+    position: absolute;
+    right: 15px;;
+}
+
+.imagen{
+    border: 1px solid rgb(153, 153, 147)
+}
+
+.deseos{
+    position: absolute;
+    color: rgb(64, 64, 223);
+    
+}
+
+.commen,eltab{
+    width: 200%;
+}
+
+.salir{
+    border:1px solid wheat;
+    padding:0px;
+    border-radius: 5px;
+}
